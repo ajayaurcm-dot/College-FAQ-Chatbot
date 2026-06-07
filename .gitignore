@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Build folders
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/

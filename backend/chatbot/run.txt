@@ -1,0 +1,4 @@
+D:
+cd pjt\chatbot
+venv\Scripts\activate
+uvicorn app.main:app --reload
